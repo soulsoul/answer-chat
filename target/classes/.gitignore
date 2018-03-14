@@ -1,0 +1,6 @@
+/application-dev.yml
+/application-ngrok.yml
+/application-prod.yml
+/application.yml
+/com/
+/log4j.properties
